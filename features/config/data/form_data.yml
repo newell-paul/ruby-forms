@@ -1,8 +1,7 @@
 default_form:
   first_name:        ~first_name
   last_name:         ~last_name
-  sex_male:          y
-  experience_3:      y
   date:              ~today
+  male:              true
 
 
