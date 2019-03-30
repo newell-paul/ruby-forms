@@ -1,4 +1,4 @@
-# AUTOMATION - COMPLETING WEB FORMS WITH CUCUMBER, WATIR
+# AUTOMATION - COMPLETING WEB FORMS WITH CUCUMBER, WATIR AND RUBY
 
 This is the simplest and easiest way I know to automate the completion of web forms using Cucumber, PageObject, Watir, Ruby.
 
