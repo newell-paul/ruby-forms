@@ -9,7 +9,6 @@ World PageObject::PageFactory
 
 Before do |scenario|
   @browser = Watir::Browser.new :chrome
-
 end
 
 After do |scenario|
