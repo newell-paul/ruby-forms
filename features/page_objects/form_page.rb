@@ -11,7 +11,7 @@ class FormPage
   radio_button(:experience_3, id: 'exp-2')
   text_field(:date, id: 'datepicker')
 
-  def fill_form(_data = {})
+  def fill_form
     populate_page_with data_for(:default_form)
   end
 end
